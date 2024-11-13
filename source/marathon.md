@@ -14,12 +14,12 @@ My Marathon Career：
 <table>
   <tr>
     <th style="text-align:center; width:200px;">Date</th>
-    <th style="text-align:center; width:600px;">Marathon Events</th>
+    <th style="text-align:center; width:900px;">Marathon Events</th>
     <th style="text-align:center; width:150px;">Category</th>
     <th style="text-align:center; width:100px;">Distance</th>
     <th style="text-align:center; width:260px;">Race Duration</th>
     <th style="text-align:center; width:200px;">Avg Pace</th>
-    <th style="text-align:center; width:600px;">Location</th>
+    <th style="text-align:center; width:1200px;">Location</th>
   </tr>
   <tr>
     <td style="text-align:center;">2024-05-18</td>
