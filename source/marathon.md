@@ -4,7 +4,7 @@ date: 2024-11-12 00:14:28
 academia: true
 ---
 My Marathon Career：
-| Date | Marathon Events | Category | Distance | Race Duration｜Avg Pace| Location |
+| Date | Marathon Events | Category | Distance | Race Duration|Avg Pace| Location |
 |----------|----------|----------|----------|----------|----------|----------|
 |2024-05-18|东南大学第九届校庆马拉松|校园马拉松|6.6km|00:38:00｜05'42''|东南大学九龙湖校区|
 |2024-09-22|南京理工大学第三届校园马拉松|校园马拉松|7.5km|00:45:41｜06'09''|南京理工大学孝陵卫校区|
