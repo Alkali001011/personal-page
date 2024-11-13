@@ -9,8 +9,8 @@ Race History：
   <tr>
     <th style="text-align:center;width:100px;">Date</th>
     <th style="text-align:center;width:300px;">Marathon Events</th>
-    <th style="text-align:center;">Category</th>
-    <th style="text-align:center;">Distance</th>
+    <th style="text-align:center;width:80px;">Category</th>
+    <th style="text-align:center;width:80px;">Distance</th>
     <th style="text-align:center;">Race Duration</th>
     <th style="text-align:center;">Avg Pace</th>
     <th style="text-align:center;">Location</th>
