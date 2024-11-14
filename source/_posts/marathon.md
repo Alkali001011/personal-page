@@ -78,7 +78,6 @@ Race History:
 
 Highlight Race Gallery:
 
-{% asset_img 2024-05-18-1.jpg This is an example image %}
+<img src="/marathon/2024-05-18-1.jpg" alt="This is an example image">
 
 
-<!-- ![](#marathon/2024-05-18-1.jpg) -->
