@@ -3,7 +3,30 @@ title: My Marathon Career
 date: 2024-11-12 00:14:28
 academia: true
 ---
-Race History：
+PB Records by Distance:
+
+<table style="border-collapse: collapse; width: 100%;" border="1">
+  <tr>
+    <th style="text-align:center;">Distance</th>
+    <th style="text-align:center;">PB Pace</th>
+    <th style="text-align:center;">Achieve Date</th>
+    <th style="text-align:center;">Achieve Event</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;">5km</td>
+    <td style="text-align:center;">00:28:24</td>
+    <td style="text-align:center;">2024-05-18</td>
+    <td style="text-align:center;">东南大学第九届校庆马拉松</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">10km</td>
+    <td style="text-align:center;">00:59:27</td>
+    <td style="text-align:center;">2024-10-20</td>
+    <td style="text-align:center;">南京航空航天大学72周年校庆马拉松</td>
+  </tr>
+</table>
+
+Race History:
 
 <table style="border-collapse: collapse; width: 100%;" border="1">
   <tr>
@@ -52,3 +75,6 @@ Race History：
     <td style="text-align:center;">杭州市黄龙体育中心-西湖平湖秋月风景区</td>
   </tr>
 </table>
+
+Highlight Race Gallery:
+
