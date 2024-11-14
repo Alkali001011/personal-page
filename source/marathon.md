@@ -7,12 +7,12 @@ Race History：
 
 <table style="border-collapse: collapse; width: 100%;" border="1">
   <tr>
-    <th style="text-align:center;width:100px;">Date</th>
-    <th style="text-align:center;width:300px;">Marathon Events</th>
-    <th style="text-align:center;width:80px;">Category</th>
-    <th style="text-align:center;width:80px;">Distance</th>
-    <th style="text-align:center;">Race Duration</th>
-    <th style="text-align:center;">Avg Pace</th>
+    <th style="text-align:center;width:90px;">Date</th>
+    <th style="text-align:center;width:290px;">Marathon Events</th>
+    <th style="text-align:center;width:70px;">Category</th>
+    <th style="text-align:center;width:70px;">Distance</th>
+    <th style="text-align:center;width:70px;">Race Duration</th>
+    <th style="text-align:center;width:50px;">Avg Pace</th>
     <th style="text-align:center;">Location</th>
   </tr>
   <tr>
