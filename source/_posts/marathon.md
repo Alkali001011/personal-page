@@ -77,7 +77,44 @@ Race History:
 </table>
 
 Highlight Race Gallery:
-
-<img src="/marathon/2024-05-18-1.jpg" alt="This is an example image">
-
+<figure style="text-align: center;">
+  <img src="/marathon/2024-05-18-1.jpg"  style="max-width: 65%; height: auto;">
+  <figcaption>东南大学第九届校庆马拉松——开幕式</figcaption>
+</figure>
+<figure style="text-align: center;">
+  <img src="/marathon/2024-05-18-2.jpg" style="max-width: 75%; height:500px; object-fit: contain;">
+  <figcaption>东南大学第九届校庆马拉松——跑步掠影</figcaption>
+</figure>
+<figure style="text-align: center;">
+  <img src="/marathon/2024-09-22-1.jpg"  style="max-width: 65%; height: auto;">
+  <figcaption>南京理工大学第三届校园马拉松——赛前筹备</figcaption>
+</figure>
+<figure style="text-align: center;">
+  <img src="/marathon/2024-09-22-2.jpg"  style="max-width: 65%; height: auto;">
+  <figcaption>南京理工大学第三届校园马拉松——完赛留念</figcaption>
+</figure>
+<figure style="text-align: center;">
+  <img src="/marathon/2024-10-20-1.jpg"  style="max-width: 65%; height: auto;">
+  <figcaption>南京航空航天大学72周年校庆马拉松——完赛合影一</figcaption>
+</figure>
+<figure style="text-align: center;">
+  <img src="/marathon/2024-10-20-2.jpg"  style="max-width: 65%; height: auto;">
+  <figcaption>南京航空航天大学72周年校庆马拉松——完赛合影二</figcaption>
+</figure>
+<figure style="text-align: center;">
+  <img src="/marathon/2024-11-03-1.jpg"  style="max-width: 75%; height:500px; object-fit: contain;">
+  <figcaption>卡萨帝·2024杭州马拉松——领物留念</figcaption>
+</figure>
+<figure style="text-align: center;">
+  <img src="/marathon/2024-11-03-2.jpg"  style="max-width: 75%; height:500px; object-fit: contain;">
+  <figcaption>卡萨帝·2024杭州马拉松——机器狗兔子</figcaption>
+</figure>
+<figure style="text-align: center;">
+  <img src="/marathon/2024-11-03-3.jpg"  style="max-width: 75%; height:500px; object-fit: contain;">
+  <figcaption>卡萨帝·2024杭州马拉松——欢乐跑完赛证书</figcaption>
+</figure>
+<figure style="text-align: center;">
+  <img src="/marathon/2024-11-03-4.jpg"  style="max-width: 75%; height:500px; object-fit: contain;">
+  <figcaption>卡萨帝·2024杭州马拉松——欢乐跑完赛留影</figcaption>
+</figure>
 
