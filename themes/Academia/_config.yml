@@ -15,8 +15,8 @@ menu:
   # About: /
   # Blog: https://phower.me
   # Hobbies: /hobbies
-  Marathon: /Marathon
-  Education: /Education
+  Marathon: /marathon
+  Education: /education
 
 # flink picture will load if avator link calls on error
 loading_bg:
