@@ -1,6 +1,5 @@
 ---
-title: Educational Background
-date: 2024-11-16 15:34:28
-academia: true
+title: Education
+date: 2024-11-16 16:31:48
+tags:
 ---
-hhh
