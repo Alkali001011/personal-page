@@ -30,6 +30,6 @@ tags:
             <br>
             <em>Physics & Biology</em>
             <br>
-            <a href="https://baike.baidu.com/item/%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%B1%9F%E9%83%BD%E4%B8%AD%E5%AD%A6/5066555" target="_blank">Jiangdu High School</a>, Jiangdu District, Yangzhou, Jiangsu, China
+            <a href="https://baike.baidu.com/item/%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%B1%9F%E9%83%BD%E4%B8%AD%E5%AD%A6/5066555" target="_blank">Jiangdu High School</a>, Jiangdu, Jiangsu, China
         </li>
 </ul>
